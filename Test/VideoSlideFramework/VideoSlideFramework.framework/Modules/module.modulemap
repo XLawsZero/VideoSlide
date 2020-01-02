@@ -1,0 +1,6 @@
+framework module VideoSlideFramework {
+  umbrella header "VideoSlideFramework.h"
+
+  export *
+  module * { export * }
+}
